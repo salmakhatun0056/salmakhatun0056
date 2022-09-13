@@ -5,14 +5,14 @@
 
 I am a junior web developer.  I have been learning HTML, Vanilla CSS, Javascript, Redux, etc. I can style with CSS frameworks like Bootstrap, TailwindCSS, DaisyUI, etc. I can work with JS libraries such as React, Node, Express, and MongoDB. I enjoy learning new technologies. I'm ready to take any step to get to the next level.
 
-##Skills: 
--HTML 
--CSS
--JS 
--REACT
--Redux-
--Tailwind
--Bootstrap 
+## Skills: 
+- HTML 
+- CSS
+- JS 
+- REACT
+- Redux-
+- Tailwind
+- Bootstrap 
 
 - 🔭 I’m currently working on this page. 
 
