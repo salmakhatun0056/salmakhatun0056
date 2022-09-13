@@ -18,7 +18,4 @@ Skills:  HTML / CSS/ JS /REACT/Redux
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=salmakhatun0056&show_icons=true)  
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=salmakhatun0056)  
-
 ![Profile views](https://gpvc.arturio.dev/salmakhatun0056)  
-
