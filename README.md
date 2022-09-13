@@ -3,9 +3,16 @@
 ### Hi there 👋, I'm Salma Khatun
 #### Junior web developer
 
-I am a junior web developer. I created 5+ deploying single page/eCommerce applications. I have been learning HTML, Vanilla CSS, Javascript, Redux, etc. I can style with CSS frameworks like Bootstrap, TailwindCSS, DaisyUI, etc. I can work with JS libraries such as React, Node, Express, and MongoDB. I enjoy learning new technologies. I'm ready to take any step to get to the next level.
+I am a junior web developer.  I have been learning HTML, Vanilla CSS, Javascript, Redux, etc. I can style with CSS frameworks like Bootstrap, TailwindCSS, DaisyUI, etc. I can work with JS libraries such as React, Node, Express, and MongoDB. I enjoy learning new technologies. I'm ready to take any step to get to the next level.
 
-Skills:  HTML / CSS/ JS /REACT/Redux/Tailwind/Bootstrap 
+##Skills: 
+-HTML 
+-CSS
+-JS 
+-REACT
+-Redux-
+-Tailwind
+-Bootstrap 
 
 - 🔭 I’m currently working on this page. 
 
