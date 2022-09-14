@@ -1,4 +1,4 @@
-![MasterHead](https://i.ibb.co/wNFXjbM/abstact-hexagon-background-memphis-style-1017-31955-1.png)
+![MasterHead](https://i.ibb.co/YPJc5T7/abstact-hexagon-background-memphis-style-1017-31955-1.jpg)
 
 <h1 align="center">Hi 👋, I'm Salma Khatun</h1>
 <h3 align="center">Junior Front End Developer</h3>
