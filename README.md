@@ -1,4 +1,4 @@
-![Junior web developer](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXLay7jAbNoqt4-gZa4E1-xXhKUyYVBzoI8R1vBAiF4wnfS_UYiBz95mINCZusmyS8AlA&usqp=CAU)
+![MasterHead](https://i.ibb.co/wNFXjbM/abstact-hexagon-background-memphis-style-1017-31955-1.png)
 
 <h1 align="center">Hi 👋, I'm Salma Khatun</h1>
 <h3 align="center">Junior Front End Developer</h3>
